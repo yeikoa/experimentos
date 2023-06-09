@@ -1,4 +1,4 @@
-import ComponentName from "./components/bloque";
+
 import GuessingGame from "./components/juegos/juego";
 import MemoryGame from "./components/juegos/memory";
 import Step from "./components/step";
@@ -13,7 +13,7 @@ export default function Home() {
 
       <MemoryGame></MemoryGame>
 
-      <ComponentName></ComponentName>
+      
 
       <Step></Step>
     </div>
