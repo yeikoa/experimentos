@@ -43,7 +43,7 @@ const SignInWithLinkPage = () => {
       <h1>Signing In With Magic Link</h1>
       
       {loading ? (
-        <text>⏱️ Wait while we're authenticating you...</text>
+        <text>⏱️ Wait while were authenticating you...</text>
       ) : (
         <>
           <text>
